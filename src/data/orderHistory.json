@@ -1,0 +1,4 @@
+[
+  { "symbol": "EUR/USD", "type": "Sell", "openDate": "2024-03-24", "openPrice": "1.0856", "closeDate": "2024-03-24", "closePrice": "1.0858", "lots": 100, "profit": -5 },
+  { "symbol": "EUR/USD", "type": "Buy", "openDate": "2024-03-24", "openPrice": "1.0856", "closeDate": "2024-03-24", "closePrice": "1.0856", "lots": 100, "profit": 9 }
+]
